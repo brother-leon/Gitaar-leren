@@ -1,5 +1,6 @@
 def shapes():
-    a = ['Minor']
+    a = ['Natural Minor',
+         'Major Pentatonic']
     #a = ["Major", "Minor", "Natural minor", "Minor Pentatonic", "Major Pentatonic"]
     return a
     
